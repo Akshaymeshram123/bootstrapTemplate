@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sidebar{
+    width: 20%;
+    margin: 3px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.main{
+    margin: 3px;
+    background-color: rgb(250, 248, 248);
+    width: 80%;
+}
+
+.dropdown{
+    width: 100%;
+}
+
+.buttonCol{
+    background-image: linear-gradient(to right, rgb(228, 72, 25) ,rgb(241, 172, 106));
+}
+
+.card{
+    display: flex;
+    
+}
+
+.navUp li a{
+    color: black;
+    font-weight: 700;
+}
+
+.dropdown{
+    width: 15%;
+}
